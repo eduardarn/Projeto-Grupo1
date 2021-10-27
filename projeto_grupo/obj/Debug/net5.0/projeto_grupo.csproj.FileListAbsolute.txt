@@ -1,0 +1,15 @@
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/bin/Debug/net5.0/projeto_grupo.deps.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/bin/Debug/net5.0/projeto_grupo.runtimeconfig.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/bin/Debug/net5.0/projeto_grupo.runtimeconfig.dev.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/bin/Debug/net5.0/projeto_grupo.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/bin/Debug/net5.0/ref/projeto_grupo.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/bin/Debug/net5.0/projeto_grupo.pdb
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/obj/Debug/net5.0/projeto_grupo.csproj.AssemblyReference.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/obj/Debug/net5.0/projeto_grupo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/obj/Debug/net5.0/projeto_grupo.AssemblyInfoInputs.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/obj/Debug/net5.0/projeto_grupo.AssemblyInfo.cs
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/obj/Debug/net5.0/projeto_grupo.csproj.CoreCompileInputs.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/obj/Debug/net5.0/projeto_grupo.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/obj/Debug/net5.0/ref/projeto_grupo.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/obj/Debug/net5.0/projeto_grupo.pdb
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/projeto_grupo/obj/Debug/net5.0/projeto_grupo.genruntimeconfig.cache
